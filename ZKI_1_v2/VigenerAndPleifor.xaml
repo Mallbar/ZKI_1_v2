@@ -1,0 +1,24 @@
+﻿<Window x:Class="ZKI_1_v2.VigenerAndPleifor"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ZKI_1_v2"
+        mc:Ignorable="d"
+        Title="VigenerAndPleifor" Height="592" Width="800">
+    <Grid>
+        <Button Content="Start" HorizontalAlignment="Left" Margin="215,301,0,0" VerticalAlignment="Top" Width="142" Click="Button_Click"/>
+        <CheckBox x:Name="checkBoxEncrypt" Content="Encript" HorizontalAlignment="Left" Margin="213,265,0,0" VerticalAlignment="Top" Checked="CheckBoxEncrypt_Checked"/>
+        <CheckBox x:Name="checkBoxDecrypt" Content="Decript" HorizontalAlignment="Left" Margin="299,265,0,0" VerticalAlignment="Top" Checked="CheckBoxDecrypt_Checked"/>
+        <TextBox x:Name="textWord" HorizontalAlignment="Left" Margin="213,100,0,0" TextWrapping="Wrap" Text="Enter word or select file" VerticalAlignment="Top" Width="144" IsEnabled="True" Height="45" PreviewTextInput="TextValidationTextBox"/>
+        <Button Content="Load File" HorizontalAlignment="Left" Margin="213,150,0,0" VerticalAlignment="Top" Width="144" Click="ButtonFileSelect_Click"/>
+        <TextBox x:Name="textResult" HorizontalAlignment="Left" Margin="213,192,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Text="Result" Width="144" IsEnabled="False" Height="68"/>
+        <Label Content="Vigener And Pleifor" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" Width="500" Height="82" FontSize="55"/>
+        <Button Content="MENU" HorizontalAlignment="Left" Margin="215,326,0,0" VerticalAlignment="Top" Width="142" Click="MenuButton_Click"/>
+        <TextBox x:Name="textVigenerWord" HorizontalAlignment="Left" Margin="25,100,0,0" TextWrapping="Wrap" Text="Vigener word" VerticalAlignment="Top" Width="144" MaxLength="26" PreviewTextInput="TextValidationTextBox"/>
+        <TextBox x:Name="textVigenerKeyWord" HorizontalAlignment="Left" Margin="25,130,0,0" TextWrapping="Wrap" Text="Vigener key word" VerticalAlignment="Top" Width="144" MaxLength="26" PreviewTextInput="TextValidationTextBox"/>
+        <TextBox x:Name="textVigenerСryptosystem" HorizontalAlignment="Left" Margin="460,100,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="198" Height="420" IsEnabled="False"/>
+        <TextBox x:Name="textPleiforСryptosystem" HorizontalAlignment="Left" Margin="25,170,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="91" Height="90" IsEnabled="False"/>
+
+    </Grid>
+</Window>

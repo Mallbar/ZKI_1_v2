@@ -117,7 +117,7 @@ namespace ZKI_1_v2 {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/ZKI;V1.0.0.0;component/vigenerandpleifor.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/ZKI;component/vigenerandpleifor.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\VigenerAndPleifor.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

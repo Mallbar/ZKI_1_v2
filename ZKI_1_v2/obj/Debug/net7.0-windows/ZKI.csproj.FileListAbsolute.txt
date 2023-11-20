@@ -57,3 +57,5 @@ D:\Projects\VS Projects\ZKI_1_v2\ZKI_1_v2\obj\Debug\net7.0-windows\VigenerAndCae
 D:\Projects\VS Projects\ZKI_1_v2\ZKI_1_v2\obj\Debug\net7.0-windows\VigenerAndCaesar.baml
 D:\Projects\VS Projects\ZKI_1_v2\ZKI_1_v2\obj\Debug\net7.0-windows\VigenerAndPleifor.g.cs
 D:\Projects\VS Projects\ZKI_1_v2\ZKI_1_v2\obj\Debug\net7.0-windows\VigenerAndPleifor.baml
+D:\Projects\VS Projects\ZKI_1_v2\ZKI_1_v2\obj\Debug\net7.0-windows\PleiforWidson.g.cs
+D:\Projects\VS Projects\ZKI_1_v2\ZKI_1_v2\obj\Debug\net7.0-windows\PleiforWidson.baml

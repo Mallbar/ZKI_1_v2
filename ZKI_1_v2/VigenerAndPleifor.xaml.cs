@@ -193,8 +193,8 @@ namespace ZKI_1_v2
                     textResult.Text += tableForPleifor[tableForPleifor.IndexOf(textWord.Text[i + 1]) % 5 + 5 * (tableForPleifor.IndexOf(textWord.Text[i]) / 5)];
                     textResult.Text += tableForPleifor[tableForPleifor.IndexOf(textWord.Text[i]) % 5 + 5 * (tableForPleifor.IndexOf(textWord.Text[i + 1]) / 5)];
                 }
-            }
-                PrintResult("decrypt");
+            } 
+            PrintResult("decrypt");
         }
         private void PrintResult(string fileName)
         {

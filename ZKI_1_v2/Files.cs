@@ -3,7 +3,7 @@ using System.IO;
 
 static class Files
 {
-    static public void SavingToFile(string filePath, string text)
+    public static void SavingToFile(string filePath, string text)
     {
         using (StreamWriter writer = new(filePath))
         {
@@ -11,7 +11,7 @@ static class Files
             writer.Write(text);
         }
     }
-    static public string ExtractFromFile()
+    public static string ExtractFromFile()
     {
         var openFileDialog = new OpenFileDialog();
         if (openFileDialog.ShowDialog() == true)

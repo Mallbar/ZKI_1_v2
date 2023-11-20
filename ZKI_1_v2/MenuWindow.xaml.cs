@@ -47,5 +47,11 @@ namespace ZKI_1_v2
             window.Show();
             this.Close();
         }
+        private void PleiforAndWidson_Click(object sender, RoutedEventArgs e)
+        {
+            var window = new PleiforWidson();
+            window.Show();
+            this.Close();
+        }
     }
 }

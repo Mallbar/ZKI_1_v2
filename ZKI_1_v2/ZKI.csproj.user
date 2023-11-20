@@ -12,6 +12,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="PleiforWidson.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="VigenerAndPleifor.xaml">
       <SubType>Designer</SubType>
     </Page>

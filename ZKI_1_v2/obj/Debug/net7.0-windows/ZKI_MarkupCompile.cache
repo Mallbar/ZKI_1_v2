@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET7_0;NETCOREAPP
 D:\Projects\VS Projects\ZKI_1_v2\ZKI_1_v2\App.xaml
-6126990423
+7364802198
 
-11250522596
+12-438132171
 198-306949569
-DoublePermutationWindow.xaml;MenuWindow.xaml;PolybiusSquareWindow.xaml;SinglePermutrationWindow.xaml;VigenerAndCaesar.xaml;VigenerAndPleifor.xaml;
+DoublePermutationWindow.xaml;MenuWindow.xaml;PleiforWidson.xaml;PolybiusSquareWindow.xaml;SinglePermutrationWindow.xaml;VigenerAndCaesar.xaml;VigenerAndPleifor.xaml;
 
-False
+True
 

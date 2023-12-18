@@ -12,13 +12,19 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="ElGamal.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="PleiforWidson.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="VigenerAndCaesar - Копировать.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="VigenerAndPleifor.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="VigenerAndCaesar.xaml">
+    <Page Update="GammaAndCaesar.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="DoublePermutationWindow.xaml">

@@ -53,9 +53,13 @@ D:\Projects\VS Projects\ZKI_1_v2\ZKI_1_v2\obj\Debug\net7.0-windows\refint\ZKI.dl
 D:\Projects\VS Projects\ZKI_1_v2\ZKI_1_v2\obj\Debug\net7.0-windows\ZKI.pdb
 D:\Projects\VS Projects\ZKI_1_v2\ZKI_1_v2\obj\Debug\net7.0-windows\ZKI.genruntimeconfig.cache
 D:\Projects\VS Projects\ZKI_1_v2\ZKI_1_v2\obj\Debug\net7.0-windows\ref\ZKI.dll
-D:\Projects\VS Projects\ZKI_1_v2\ZKI_1_v2\obj\Debug\net7.0-windows\VigenerAndCaesar.g.cs
-D:\Projects\VS Projects\ZKI_1_v2\ZKI_1_v2\obj\Debug\net7.0-windows\VigenerAndCaesar.baml
 D:\Projects\VS Projects\ZKI_1_v2\ZKI_1_v2\obj\Debug\net7.0-windows\VigenerAndPleifor.g.cs
 D:\Projects\VS Projects\ZKI_1_v2\ZKI_1_v2\obj\Debug\net7.0-windows\VigenerAndPleifor.baml
 D:\Projects\VS Projects\ZKI_1_v2\ZKI_1_v2\obj\Debug\net7.0-windows\PleiforWidson.g.cs
 D:\Projects\VS Projects\ZKI_1_v2\ZKI_1_v2\obj\Debug\net7.0-windows\PleiforWidson.baml
+D:\Projects\VS Projects\ZKI_1_v2\ZKI_1_v2\obj\Debug\net7.0-windows\GammaAndCaesar.g.cs
+D:\Projects\VS Projects\ZKI_1_v2\ZKI_1_v2\obj\Debug\net7.0-windows\VigenerAndCaesar - Копировать.g.cs
+D:\Projects\VS Projects\ZKI_1_v2\ZKI_1_v2\obj\Debug\net7.0-windows\GammaAndCaesar.baml
+D:\Projects\VS Projects\ZKI_1_v2\ZKI_1_v2\obj\Debug\net7.0-windows\VigenerAndCaesar - Копировать.baml
+D:\Projects\VS Projects\ZKI_1_v2\ZKI_1_v2\obj\Debug\net7.0-windows\ElGamal.g.cs
+D:\Projects\VS Projects\ZKI_1_v2\ZKI_1_v2\obj\Debug\net7.0-windows\ElGamal.baml

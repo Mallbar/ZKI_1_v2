@@ -14,6 +14,8 @@
         <Button Content="Vigener and Caesar" HorizontalAlignment="Left" Margin="61,210,0,0" VerticalAlignment="Top" Width="133" Click="VigenerAndCaesarButton_Click" Cursor="Hand" BorderBrush="Black" Background="White"/>
         <Button Content="Vigener and Pleifor" HorizontalAlignment="Left" Margin="61,240,0,0" VerticalAlignment="Top" Width="133" Click="VigenerAndPleifor_Click" Cursor="Hand" BorderBrush="Black" Background="White"/>
         <Button Content="Pleifor and Widson" HorizontalAlignment="Left" Margin="61,270,0,0" VerticalAlignment="Top" Width="133" Click="PleiforAndWidson_Click" Cursor="Hand" BorderBrush="Black" Background="White"/>
+        <Button Content="Gamma and Caesar" HorizontalAlignment="Left" Margin="61,295,0,0" VerticalAlignment="Top" Width="133" Click="GammaAndCaesar_Click" Cursor="Hand" BorderBrush="Black" Background="White"/>
+        <Button Content="El Gamal" HorizontalAlignment="Left" Margin="61,320,0,0" VerticalAlignment="Top" Width="133" Click="ElGamal_Click" Cursor="Hand" BorderBrush="Black" Background="White"/>
 
     </Grid>
 </Window>

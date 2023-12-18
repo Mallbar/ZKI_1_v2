@@ -53,5 +53,19 @@ namespace ZKI_1_v2
             window.Show();
             this.Close();
         }
+
+        private void GammaAndCaesar_Click(object sender, RoutedEventArgs e)
+        {
+            var window = new GammaAndCaesar();
+            window.Show();
+            this.Close();
+        }
+
+        private void ElGamal_Click(object sender, RoutedEventArgs e)
+        {
+            var window = new ElGamal();
+            window.Show();
+            this.Close();
+        }
     }
 }
